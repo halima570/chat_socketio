@@ -24,3 +24,8 @@ ChatSocketIO est une application de messagerie en temps réel développée avec 
    ```bash
    git clone https://github.com/halima570/chat_socketio.git
    cd chat_socketio
+```
+---
+## Contact
+
+Pour toute question, tu peux me contacter via mon profil linkedin (www.linkedin.com/in/halima-el-hagouchi-61a21a213).
